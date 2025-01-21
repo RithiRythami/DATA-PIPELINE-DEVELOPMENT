@@ -25,3 +25,8 @@ Tools like Jupyter Notebook create an interactive environment where code can be 
 OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/e000935c-4d58-425a-b59a-0cb1e4d05247)
+
+
+
+
+![Image](https://github.com/user-attachments/assets/06dfb232-8bbd-487b-9d86-02474d52f6a3)
